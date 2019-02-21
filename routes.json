@@ -1,0 +1,177 @@
+routes=[
+    {
+        name:"point 1"
+        title:"7:45",
+        route:["Shama Shopping Center","Natha Khan","Drigh Road","Airport Colony","Rabia City","Johar Chowrangi","Samama Shopping Center","Campus"]
+    },
+    {
+        name:"point 2",
+        title:"7:30",
+        route:["Korangi crossing","Korangi 2/5 Number","Quaidabad","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Korangi Crossing"
+    },
+    {
+        name:"point 3",
+        title:"7:40",
+        route:["Korangi 5","Quaidabad","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Korangi 5"
+    },
+    {
+        name:"point 4",
+        title:"7:35",
+        route:["Landhi Babar Market","Quaidabad","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Landhi Babar Market"
+    },
+    {
+        name:"point 5",
+        title:"7:30",
+        route:["Malir Jinnah Square","Liaquat Market","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Malir Jinnah Square"
+    }
+    {
+        name:"point 6",
+        title:"7:40",
+        route:["Malir Jinnah Square","Double Story Road","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Malir Jinnah Square"
+    },
+    {
+        name:"point 7",
+        title:"7:45",
+        route:["Malir City","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Malir City"
+    },
+    {
+        name:"point 8",
+        title:"7:50",
+        route:["Gulshan e Hadeed","Steel Town Gate","Quaidabad","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30 upto Malir City Steel Town"
+        
+    },
+    {
+        name:"point 9",
+        title:"7:40",
+        route:["Malir Halt","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+        
+    },
+    {
+        name:"point 10",
+        title:"7:40",
+        route:["Shah Faisal Colony","Shama Shopping Center","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 11",
+        title:"7:30",
+        route:["Keemari","Farrier Road","Burns Road","Bandar Road","Numaish","Gurumandir","Jail Road","New Town Police Station","Sabzi Mandi","Hasan Square","Nipa","Campus"],
+        return:"1:30 upto Tower, Keemari"
+    },
+    {
+        name:"point 12",
+        title:"7:30",
+        route:["Orangi 10 Number","Banaras Chowk","Abdullah College","Board Office","Sakhi Hasan","Peoples Chowrangi","Water Pump","16 Number Chowrangi","Fazal Mill","Nipa","Campus"],
+        return:"1:30 upto Orangi 10 Number"
+    },
+    {
+        name:"point 13",
+        title:"7:40",
+        route:["Qasba Morr","Banaras Chowk","Habib Bank Petrol Pump","Liaquatabad 10","Hasan Square","Nipa","Campus"],
+        return:"1:30 upto Qasba Morr"
+    },
+    {
+        name:"point 14",
+        title:"7:30",
+        route:["Orangi Town 5","Sakhi Hasan","Nazimabad "]
+        return:"No [Only Morning]"
+    },
+    {
+        name:"point 15",
+        title:"7:45",
+        route:["Khilafat Chowk","Board Office Chowrangi","KDA Chowrangi","Zia Uddin Hospital","Karimabad","Water Pump","Dental College","Fazal Mill","Nipa","Campus"],
+        return:"1:30 upto Khilafat chowk"
+    },
+    {
+        name:"point 16",
+        title:"7:50",
+        route:["Nazimabad","Hyderi","Sakhi Hasan","Nagan Chowrangi","Sohrab Goth","Gulshan e Iqbal","Nipa,Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 17",
+        title:"7:50",
+        route:["Abdullah College","Shipowner College","Nusrat Bhutto Colony","Sakhi Hasan","Gulberg Chowrangi","Water Pump","Dental College","Fazal Mill","Nipa","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 18",
+        title:"7:40",
+        route:["Saddar","Numaish","Jamshed Road","New Town Police Station","Sabzi Mandi","Hasan Square","Nipa","Campus"],
+        return:"No"
+    },
+    {
+        name:"point 19",
+        title:"7:40",
+        route:["Defence Morr","FTC Goran Qabristan","Shahra e Quaideen","Tariq Road","Bahadurabad Chowrangi","Dhoraji","National Stadium","Hasan Square","Nipa","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 20",
+        title:"7:30",
+        route:["Bismillah Hotel","Petrol Pump","Liaquatabad 10","Gharibabad","Hasan Square","Nipa","Campus"],
+        return:"No [Only Morning]"
+    },
+    {
+        name:"point 21",
+        title:"7:45",
+        route:["Golimar Chowrangi","Liaquatabad Daak Khana","Sindhi Hotel","Sabzi Mandi","Hasan Square","Nipa","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 22",
+        title:"7:45",
+        route:["New Karachi Kala School","2 Minute Chowrangi","Power House","Nagan Chowrangi","Sohrab Goth","Gulshan Chowrangi","Maskan Chowrangi","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 23",
+        title:"7:35",
+        route:["KDA Chowrangi""2 Minute Chowrangi","Power House","Nagan Chowrangi","Sohrab Goth","Gulshan Chowrangi","Nipa","Campus"],
+        return:"No [Only Morning]"
+    },
+    {
+        name:"point 24",
+        title:"7:45",
+        route:["Hussainbad","Ali Abad Chowk","Ayub Manzil","Dental College","Fazal Mill","Gulshan Chowrangi","Maskan Chowrangi","Campus"],
+        route:"1:30 from Gulshan 13D upto Hussainabad"
+    },
+    {
+        name:"point 25",
+        title:"7:50",
+        route:["5c Stop","Gulberg Chowrangi","Samanabad","Ancholi","Sohrab Goth","Gulshan Chowrangi","Maskan Chowrangi","Campus"],
+        
+    },
+    {
+        name:"point 26",
+        title:"7:40",
+        route:["UP Morr","Disco Morr","Bara Dari","Ajmer Nagri","Power House","Nagan Chowrangi","Sohrab Goth","Gulshan Chowrangi","Maskan Chowrangi","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 27",
+        title:"7:45",
+        route:["Malir Model Colony","Airport","Wireless Gate","Natha Khan","Drigh Road Station","Rashid Minhas Road","Campus"],
+        return:"1:30"
+    },
+    {
+        name:"point 28",
+        title:"7:45",
+        route:["Malir Khokrapar 2","Saudabad","Jinnah Square","Malir City","Shahra e Faisal","Drigh Road Station","Rashid Minhas Road","Campus"],
+    }
+
+
+
+
+
+
+
+
+];
