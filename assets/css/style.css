@@ -1,3 +1,20 @@
+.floating-menu {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background: #45B69C;
+  padding: 3px;
+  width: 130px;
+  z-index: 100;
+  position: fixed;
+  margin-top: 160px;
+  
+}
+.floating-menu a,
+.floating-menu h3 {
+  font-size: 0.9em;
+  display: block;
+  margin: 0 0.5em;
+  color: white;
+}
 .eSDaBI {
   box-sizing: border-box;
   display: block;
@@ -3180,7 +3197,7 @@ img {
 }
 hgroup,
 img {
-  margin: 0 0 1.45rem;
+  margin: 33px 0 1.45rem;
   padding: 0;
 }
 ol,
